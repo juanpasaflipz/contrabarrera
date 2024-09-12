@@ -38,7 +38,7 @@ export function LandingPage() {
       </header>
 
       <main className="flex-grow">
-        <section className="bg-[url('/placeholder.svg?height=400&width=800')] bg-cover bg-center py-20">
+        <section className="bg-[url('https://live.staticflickr.com/6187/6107084499_2799e814fd_b.jpg')] bg-cover bg-center py-20">
           <div className="container mx-auto px-4">
             <div className="bg-black bg-opacity-50 text-white p-8 max-w-2xl">
               <h2 className="text-4xl font-bold mb-4 leading-tight">El arte de la tauromaquia: Tradición y pasión</h2>
